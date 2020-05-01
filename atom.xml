@@ -5,12 +5,12 @@
   <subtitle>个人技术笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.yangfanfan.cn/"/>
   <updated>2017-05-08T16:04:26.361Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.yangfanfan.cn/</id>
   
   <author>
-    <name>Dokusen</name>
+    <name>YangFanfan</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/01/24/hello-world/"/>
-    <id>http://yoursite.com/2019/01/24/hello-world/</id>
+    <link href="http://www.yangfanfan.cn/2019/01/24/hello-world/"/>
+    <id>http://www.yangfanfan.cn/2019/01/24/hello-world/</id>
     <published>2019-01-24T14:48:09.429Z</published>
     <updated>2017-05-08T16:04:26.361Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>给 Hexo 主题添加动态背景</title>
-    <link href="http://yoursite.com/2017/05/09/hexo-dynamic/"/>
-    <id>http://yoursite.com/2017/05/09/hexo-dynamic/</id>
+    <link href="http://www.yangfanfan.cn/2017/05/09/hexo-dynamic/"/>
+    <id>http://www.yangfanfan.cn/2017/05/09/hexo-dynamic/</id>
     <published>2017-05-09T08:10:24.000Z</published>
     <updated>2017-05-09T08:43:34.714Z</updated>
     
@@ -55,17 +55,17 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://yoursite.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://www.yangfanfan.cn/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="Hexo,主题" scheme="http://yoursite.com/tags/Hexo-%E4%B8%BB%E9%A2%98/"/>
+      <category term="Hexo,主题" scheme="http://www.yangfanfan.cn/tags/Hexo-%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>使用hexo+github搭建免费个人博客详细教程</title>
-    <link href="http://yoursite.com/2016/08/18/hexo-github/"/>
-    <id>http://yoursite.com/2016/08/18/hexo-github/</id>
+    <link href="http://www.yangfanfan.cn/2016/08/18/hexo-github/"/>
+    <id>http://www.yangfanfan.cn/2016/08/18/hexo-github/</id>
     <published>2016-08-18T04:14:44.000Z</published>
     <updated>2017-05-09T08:43:42.861Z</updated>
     
@@ -83,10 +83,10 @@
     
     </summary>
     
-      <category term="网站建设" scheme="http://yoursite.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://www.yangfanfan.cn/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="hexo,github,网站,搭建,个人,博客,git" scheme="http://yoursite.com/tags/hexo-github-%E7%BD%91%E7%AB%99-%E6%90%AD%E5%BB%BA-%E4%B8%AA%E4%BA%BA-%E5%8D%9A%E5%AE%A2-git/"/>
+      <category term="hexo,github,网站,搭建,个人,博客,git" scheme="http://www.yangfanfan.cn/tags/hexo-github-%E7%BD%91%E7%AB%99-%E6%90%AD%E5%BB%BA-%E4%B8%AA%E4%BA%BA-%E5%8D%9A%E5%AE%A2-git/"/>
     
   </entry>
   

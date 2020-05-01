@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/08/18/hexo-github/</loc>
+    <loc>http://www.yangfanfan.cn/links/index.html</loc>
+    
+    <lastmod>2020-05-01T14:21:28.200Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yangfanfan.cn/tags/index.html</loc>
+    
+    <lastmod>2020-05-01T14:18:36.089Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yangfanfan.cn/2016/08/18/hexo-github/</loc>
     
     <lastmod>2017-05-09T08:43:42.861Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/05/09/hexo-dynamic/</loc>
+    <loc>http://www.yangfanfan.cn/2017/05/09/hexo-dynamic/</loc>
     
     <lastmod>2017-05-09T08:43:34.714Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2017-05-09T02:18:00.239Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/links/index.html</loc>
-    
-    <lastmod>2017-05-09T02:11:43.528Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://www.yangfanfan.cn/about/index.html</loc>
     
     <lastmod>2017-05-09T01:57:03.162Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/01/24/hello-world/</loc>
+    <loc>http://www.yangfanfan.cn/2019/01/24/hello-world/</loc>
     
     <lastmod>2017-05-08T16:04:26.361Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/README.html</loc>
+    <loc>http://www.yangfanfan.cn/README.html</loc>
     
     <lastmod>2017-04-27T15:42:15.000Z</lastmod>
     
