@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.yangfanfan.cn/links/index.html</loc>
+    <loc>http://www.yangfanfan.cn/link/index.html</loc>
     
-    <lastmod>2020-05-01T14:21:28.200Z</lastmod>
+    <lastmod>2020-05-01T15:29:38.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yangfanfan.cn/categories/index.html</loc>
+    
+    <lastmod>2020-05-01T15:27:48.083Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.yangfanfan.cn/tags/index.html</loc>
     
-    <lastmod>2020-05-01T14:18:36.089Z</lastmod>
+    <lastmod>2020-05-01T15:26:54.808Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yangfanfan.cn/links/index.html</loc>
+    
+    <lastmod>2020-05-01T14:21:28.200Z</lastmod>
     
   </url>
   
