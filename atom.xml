@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yangfanfan.cn/"/>
-  <updated>2020-05-02T07:21:44.188Z</updated>
+  <updated>2020-05-04T15:20:13.579Z</updated>
   <id>http://www.yangfanfan.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.yangfanfan.cn/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/"/>
     <id>http://www.yangfanfan.cn/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/</id>
     <published>2020-05-01T16:00:00.000Z</published>
-    <updated>2020-05-02T07:21:44.188Z</updated>
+    <updated>2020-05-04T15:20:13.579Z</updated>
     
     <content type="html"><![CDATA[<h2 id="自定义vscode插件安装位置"><a href="#自定义vscode插件安装位置" class="headerlink" title="自定义vscode插件安装位置"></a>自定义vscode插件安装位置</h2><p>1、前提：已安装VSCode，并且已将其添加到了环境变量path中；</p><p>2、打开cmd，输入code –help,显示如下：</p><p>输入命令：code –extensions-dir 你的目标文件夹,回车则启动vscode，此时安装的插件会放到指定的目录。(可以添加快捷方式)</p><p>或者编写一个bat文件，每次调用此命令来启动vscode：</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> <span class="string">"%1"</span> == <span class="string">"h"</span> goto begin </span><br><span class="line"></span><br><span class="line">mshta vbscript:createobject(<span class="string">"wscript.shell"</span>).run(<span class="string">"%~nx0 h"</span>,<span class="number">0</span>)(window.close)&amp;&amp;<span class="keyword">exit</span> </span><br><span class="line"></span><br><span class="line">:begin </span><br><span class="line"></span><br><span class="line">code --extensions-dir F:\ProgramFiles\VSCode\extensions</span><br></pre></td></tr></table></figure>]]></content>
     
