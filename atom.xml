@@ -3,11 +3,11 @@
   <title>YangFanfan</title>
   
   <subtitle>昜畨蕃</subtitle>
-  <link href="/xxoo/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.yangfanfan.cn/xxoo/"/>
+  <link href="http://www.yangfanfan.cn/"/>
   <updated>2020-05-04T15:20:13.579Z</updated>
-  <id>http://www.yangfanfan.cn/xxoo/</id>
+  <id>http://www.yangfanfan.cn/</id>
   
   <author>
     <name>YangFanfan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>自定义vscode插件安装位置</title>
-    <link href="http://www.yangfanfan.cn/xxoo/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/"/>
-    <id>http://www.yangfanfan.cn/xxoo/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/</id>
+    <link href="http://www.yangfanfan.cn/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/"/>
+    <id>http://www.yangfanfan.cn/2020/05/02/%E8%87%AA%E5%AE%9A%E4%B9%89vscode%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/</id>
     <published>2020-05-01T16:00:00.000Z</published>
     <updated>2020-05-04T15:20:13.579Z</updated>
     
@@ -35,17 +35,17 @@
     </summary>
     
     
-      <category term="操作笔记" scheme="http://www.yangfanfan.cn/xxoo/categories/%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/"/>
+      <category term="操作笔记" scheme="http://www.yangfanfan.cn/categories/%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="VSCode" scheme="http://www.yangfanfan.cn/xxoo/tags/VSCode/"/>
+      <category term="VSCode" scheme="http://www.yangfanfan.cn/tags/VSCode/"/>
     
   </entry>
   
   <entry>
     <title>给 Hexo 主题添加动态背景</title>
-    <link href="http://www.yangfanfan.cn/xxoo/2017/05/09/hexo-dynamic/"/>
-    <id>http://www.yangfanfan.cn/xxoo/2017/05/09/hexo-dynamic/</id>
+    <link href="http://www.yangfanfan.cn/2017/05/09/hexo-dynamic/"/>
+    <id>http://www.yangfanfan.cn/2017/05/09/hexo-dynamic/</id>
     <published>2017-05-09T08:10:24.000Z</published>
     <updated>2020-05-02T07:21:18.663Z</updated>
     
@@ -61,19 +61,19 @@
     </summary>
     
     
-      <category term="网站建设" scheme="http://www.yangfanfan.cn/xxoo/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://www.yangfanfan.cn/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="Hexo" scheme="http://www.yangfanfan.cn/xxoo/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.yangfanfan.cn/tags/Hexo/"/>
     
-      <category term="主题" scheme="http://www.yangfanfan.cn/xxoo/tags/%E4%B8%BB%E9%A2%98/"/>
+      <category term="主题" scheme="http://www.yangfanfan.cn/tags/%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>使用hexo+github搭建免费个人博客详细教程</title>
-    <link href="http://www.yangfanfan.cn/xxoo/2016/08/18/hexo-github/"/>
-    <id>http://www.yangfanfan.cn/xxoo/2016/08/18/hexo-github/</id>
+    <link href="http://www.yangfanfan.cn/2016/08/18/hexo-github/"/>
+    <id>http://www.yangfanfan.cn/2016/08/18/hexo-github/</id>
     <published>2016-08-18T04:14:44.000Z</published>
     <updated>2020-05-02T07:00:09.039Z</updated>
     
@@ -92,18 +92,18 @@
     </summary>
     
     
-      <category term="网站建设" scheme="http://www.yangfanfan.cn/xxoo/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://www.yangfanfan.cn/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="hexo" scheme="http://www.yangfanfan.cn/xxoo/tags/hexo/"/>
+      <category term="hexo" scheme="http://www.yangfanfan.cn/tags/hexo/"/>
     
-      <category term="github" scheme="http://www.yangfanfan.cn/xxoo/tags/github/"/>
+      <category term="github" scheme="http://www.yangfanfan.cn/tags/github/"/>
     
-      <category term="搭建" scheme="http://www.yangfanfan.cn/xxoo/tags/%E6%90%AD%E5%BB%BA/"/>
+      <category term="搭建" scheme="http://www.yangfanfan.cn/tags/%E6%90%AD%E5%BB%BA/"/>
     
-      <category term="博客" scheme="http://www.yangfanfan.cn/xxoo/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="http://www.yangfanfan.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-      <category term="git" scheme="http://www.yangfanfan.cn/xxoo/tags/git/"/>
+      <category term="git" scheme="http://www.yangfanfan.cn/tags/git/"/>
     
   </entry>
   
